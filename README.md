@@ -3,7 +3,7 @@
 ## Hello there 👋 I'm Mignone (Anh) Nguyen!
 **Data Scientist, AI/ ML Engineer**
 
-I'm a fresh graduate and currently experiment different project related to Machine Learning to build up my foundation in MLOps. 
+I'm a fresh graduate and currently experiment different project related to Machine Learning to build up my foundation in MLOps. This introduction section is still under construction. Stay tuned! 🛠️
 
 <!--
 **MignoneNguyen/MignoneNguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
