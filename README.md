@@ -1,7 +1,6 @@
-![Uploading image.png…]()
+![](pic_I_took.jpg)
 
 ## Hello there 👋 I'm Mignone (Anh) Nguyen!
----
 **Data Scientist, AI/ ML Engineer**
 
 I'm a fresh graduate and currently experiment different project related to Machine Learning to build up my foundation in MLOps. 
